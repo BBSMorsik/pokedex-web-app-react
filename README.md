@@ -28,11 +28,12 @@ The app will open in your browser at http://localhost:3000.
 
 Add pagination for Pokémon lists, implement advanced search and filter options, add unit tests for components using Jest/React Testing Library, and improve UI design and animations.
 
-## Author
+## Demo
+You can view the live version of this Pokémon Information Portal here:
 Live Demo
-👉 Click here to launch the Live Application
 
-https://img.shields.io/badge/LIVE_DEMO-Visit_Site-brightgreen?style=for-the-badge&logo=github
+## Author
+
 Mors  
 GitHub: BBSMorsik  
 
