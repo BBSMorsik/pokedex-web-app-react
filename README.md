@@ -30,7 +30,7 @@ Add pagination for Pokémon lists, implement advanced search and filter options,
 
 ## Demo
 You can view the live version of this Pokémon Information Portal here:
-Live Demo
+**[Live Demo](https://bbsmorsik.github.io/pokedex-web-app-react/)**
 
 ## Author
 
