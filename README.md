@@ -32,4 +32,4 @@ Add pagination for Pokémon lists, implement advanced search and filter options,
 
 Mors  
 GitHub: BBSMorsik  
-Portfolio: [optional]
+
