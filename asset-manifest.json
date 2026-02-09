@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/BBSMorsik/pokedex-web-app-react/static/css/main.a29029f2.css",
-    "main.js": "/BBSMorsik/pokedex-web-app-react/static/js/main.49197163.js",
-    "static/css/844.a9dafec0.chunk.css": "/BBSMorsik/pokedex-web-app-react/static/css/844.a9dafec0.chunk.css",
-    "static/js/844.b6772425.chunk.js": "/BBSMorsik/pokedex-web-app-react/static/js/844.b6772425.chunk.js",
-    "static/css/277.53b1d6a9.chunk.css": "/BBSMorsik/pokedex-web-app-react/static/css/277.53b1d6a9.chunk.css",
-    "static/js/277.0cd79308.chunk.js": "/BBSMorsik/pokedex-web-app-react/static/js/277.0cd79308.chunk.js",
-    "static/css/166.315951d3.chunk.css": "/BBSMorsik/pokedex-web-app-react/static/css/166.315951d3.chunk.css",
-    "static/js/166.d2091ed9.chunk.js": "/BBSMorsik/pokedex-web-app-react/static/js/166.d2091ed9.chunk.js",
-    "static/js/297.19f15b23.chunk.js": "/BBSMorsik/pokedex-web-app-react/static/js/297.19f15b23.chunk.js",
-    "static/media/pokeball.png": "/BBSMorsik/pokedex-web-app-react/static/media/pokeball.ae1f66d65d00651e4093.png",
-    "static/media/pika.png": "/BBSMorsik/pokedex-web-app-react/static/media/pika.b2c542b3fafe64aaabfb.png",
-    "static/media/error.gif": "/BBSMorsik/pokedex-web-app-react/static/media/error.42292aa12b6bc303ce99.gif",
-    "index.html": "/BBSMorsik/pokedex-web-app-react/index.html",
-    "main.a29029f2.css.map": "/BBSMorsik/pokedex-web-app-react/static/css/main.a29029f2.css.map",
-    "main.49197163.js.map": "/BBSMorsik/pokedex-web-app-react/static/js/main.49197163.js.map",
-    "844.a9dafec0.chunk.css.map": "/BBSMorsik/pokedex-web-app-react/static/css/844.a9dafec0.chunk.css.map",
-    "844.b6772425.chunk.js.map": "/BBSMorsik/pokedex-web-app-react/static/js/844.b6772425.chunk.js.map",
-    "277.53b1d6a9.chunk.css.map": "/BBSMorsik/pokedex-web-app-react/static/css/277.53b1d6a9.chunk.css.map",
-    "277.0cd79308.chunk.js.map": "/BBSMorsik/pokedex-web-app-react/static/js/277.0cd79308.chunk.js.map",
-    "166.315951d3.chunk.css.map": "/BBSMorsik/pokedex-web-app-react/static/css/166.315951d3.chunk.css.map",
-    "166.d2091ed9.chunk.js.map": "/BBSMorsik/pokedex-web-app-react/static/js/166.d2091ed9.chunk.js.map",
-    "297.19f15b23.chunk.js.map": "/BBSMorsik/pokedex-web-app-react/static/js/297.19f15b23.chunk.js.map"
+    "main.css": "/pokedex-web-app-react/static/css/main.a29029f2.css",
+    "main.js": "/pokedex-web-app-react/static/js/main.cdcf83d6.js",
+    "static/css/844.a9dafec0.chunk.css": "/pokedex-web-app-react/static/css/844.a9dafec0.chunk.css",
+    "static/js/844.b6772425.chunk.js": "/pokedex-web-app-react/static/js/844.b6772425.chunk.js",
+    "static/css/277.53b1d6a9.chunk.css": "/pokedex-web-app-react/static/css/277.53b1d6a9.chunk.css",
+    "static/js/277.0cd79308.chunk.js": "/pokedex-web-app-react/static/js/277.0cd79308.chunk.js",
+    "static/css/166.315951d3.chunk.css": "/pokedex-web-app-react/static/css/166.315951d3.chunk.css",
+    "static/js/166.d2091ed9.chunk.js": "/pokedex-web-app-react/static/js/166.d2091ed9.chunk.js",
+    "static/js/297.19f15b23.chunk.js": "/pokedex-web-app-react/static/js/297.19f15b23.chunk.js",
+    "static/media/pokeball.png": "/pokedex-web-app-react/static/media/pokeball.ae1f66d65d00651e4093.png",
+    "static/media/pika.png": "/pokedex-web-app-react/static/media/pika.b2c542b3fafe64aaabfb.png",
+    "static/media/error.gif": "/pokedex-web-app-react/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/pokedex-web-app-react/index.html",
+    "main.a29029f2.css.map": "/pokedex-web-app-react/static/css/main.a29029f2.css.map",
+    "main.cdcf83d6.js.map": "/pokedex-web-app-react/static/js/main.cdcf83d6.js.map",
+    "844.a9dafec0.chunk.css.map": "/pokedex-web-app-react/static/css/844.a9dafec0.chunk.css.map",
+    "844.b6772425.chunk.js.map": "/pokedex-web-app-react/static/js/844.b6772425.chunk.js.map",
+    "277.53b1d6a9.chunk.css.map": "/pokedex-web-app-react/static/css/277.53b1d6a9.chunk.css.map",
+    "277.0cd79308.chunk.js.map": "/pokedex-web-app-react/static/js/277.0cd79308.chunk.js.map",
+    "166.315951d3.chunk.css.map": "/pokedex-web-app-react/static/css/166.315951d3.chunk.css.map",
+    "166.d2091ed9.chunk.js.map": "/pokedex-web-app-react/static/js/166.d2091ed9.chunk.js.map",
+    "297.19f15b23.chunk.js.map": "/pokedex-web-app-react/static/js/297.19f15b23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a29029f2.css",
-    "static/js/main.49197163.js"
+    "static/js/main.cdcf83d6.js"
   ]
 }
